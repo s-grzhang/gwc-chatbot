@@ -1,10 +1,10 @@
 User Input,Bot Response
-When and where does Girls Who Code (GWC) meet?,We meet on Tuesday afternoons in D103.
+When and where does Girls Who Code (GWC) meet?,We meet on Tuesday mornings in D103.
 What day does GWC meet?,Girls Who Code meets on Tuesday.
-What time does GWC meet?,Girls Who Code meets from 3:30 PM to 4 PM.
+What time does GWC meet?,Girls Who Code meets from 7:30 AM to 8:20 AM.
 What room does Girls Who Code meet?,GWC meets in room D103.
-When do Girls Who Code meetings end?,Girls Who Code meetings end at 4 PM when Ms. Weber leaves.
-How long are Girls Who Code meetings?,GWC meetings are about 30 minutes long.
+When do Girls Who Code meetings end?,Girls Who Code meetings end at 8:20 AM when school starts.
+How long are Girls Who Code meetings?,GWC meetings are about 50 minutes long.
 Who is Redmond High School Girls Who Code's advisor?,"Our advisor is Ms. Weber, the AP CS P teacher."
 What is the purpose of Girls Who Code?,"The gender gap in computing is huge, leading girls who are interested in computer science to give up due to alienation. Girls Who Code aims to support and increase the number of women in computer science by not only teaching skills but also fostering sisterhood among its members."
 Who can join GWC (Girls Who Code)?,"Anyone can join, from girls to boys to people who are non-binary! However, this club does target girls specifically, considering girls are underrepresented in computer science."
@@ -47,13 +47,13 @@ Why should I join Girls Who Code?,"In Girls Who Code, you will complete many pro
 Why is Girls Who Code teaching Python rather than Java?,Python is easier to learn as a beginner and ties in nicely with the artificial intelligence and web development units later in the year. It is also a waste of time for AP CS A students to be relearning Java in GWC.
 Will Girls Who Code offer support for AP CS A and CS P students?,"Our secretary Emily and our PR officer Stephanie have both taken AP CS P, so if you need help, feel free to reach out to them. The vice president Amruta and president Grace have both taken AP CS A. We will offer study sessions, test-taking strategies, and study materials for both AP CS A and CS P a month before the AP tests."
 Can non-binary people join GWC?,"The GWC website states, 'Girls Who Code is a nonprofit organization that offers coding programs, clubs, and events for girls and nonbinary students of all ages.' So yes, non-binary people can absolutely join Girls Who Code."
-When is the first meeting?,"The first meeting takes place after the Club Jamboree, which usually takes place in September."
-What time and location is the Girls Who Code meeting?,Girls Who Code meets in room D103 every Tuesday afternoon.
+When is the first meeting?,The first meeting takes place on the first of October.
+What time and location is the Girls Who Code meeting?,Girls Who Code meets in room D103 every Tuesday before school.
 On which day does Girls Who Code meet?,Girls Who Code gathers every Tuesday.
-At what time does Girls Who Code start?,Our meeting time is from 3:30 PM to 4 PM.
+At what time does Girls Who Code start?,Our meeting time is from 7:30 AM to 8:20 AM.
 In which room will Girls Who Code meetings be held?,The meetings are conducted in room D103.
-What time do Girls Who Code meetings conclude?,Meetings conclude at 4 PM when Ms. Weber leaves.
-What is the duration of each Girls Who Code meeting?,Each Girls Who Code meeting lasts about 30 minutes.
+What time do Girls Who Code meetings conclude?,Meetings conclude at 8:20 AM when school begins.
+What is the duration of each Girls Who Code meeting?,Each Girls Who Code meeting lasts about 50 minutes.
 Who advises the Redmond High School Girls Who Code club?,"Ms. Weber, who teaches AP CS P, is our advisor."
 Why was Girls Who Code created?,"The gender gap in computing is large, often causing girls interested in computer science to feel isolated and discouraged. Girls Who Code aims to bridge this gap by not only teaching technical skills but also building a supportive community among its members."
 Who is eligible to join Girls Who Code?,"Girls, boys, and non-binary individuals are all welcome to join! However, the club primarily focuses on supporting girls, as they are underrepresented in the field of computer science."
@@ -96,4 +96,6 @@ What makes Girls Who Code worth joining?,"In Girls Who Code, you'll complete num
 Why does Girls Who Code focus on Python instead of Java?,"Python is a great language for beginners and ties in well with the AI and web development topics we’ll cover later in the year. For AP CS A students, re-learning Java in Girls Who Code would be redundant."
 Does Girls Who Code provide help for AP CS A and CS P students?,"Our secretary, Emily, and PR officer, Stephanie, have both taken AP CS P, so feel free to reach out to them if you need help. The vice president, Amruta, and president, Grace, have both taken AP CS A. We’ll hold study sessions, share test-taking strategies, and provide study materials for both AP CS A and AP CS P a month before the AP exams."
 Is Girls Who Code inclusive of non-binary individuals?,"The Girls Who Code website states, ""Girls Who Code is a nonprofit organization that offers coding programs, clubs, and events for girls and nonbinary students of all ages."" So yes, non-binary students are absolutely welcome to join."
-What date is the first Girls Who Code meeting?,"The first meeting will be held after the Club Jamboree, which typically occurs in September."
+What date is the first Girls Who Code meeting?,The first meeting will be held after the Club Jamboree on October 1.
+How is GWC different from the other computer science clubs at the school?,Girls Who Code is the only CS club that aims to empower women. It is the only club with a sisterhood & where girls can feel like they belong.
+What does GWC offer that other computer science clubs don't?,Girls Who Code presents on Women in STEM in hopes of inspiring young girls to follow in the footsteps of these pioneering engineers. This is unique to GWC.
